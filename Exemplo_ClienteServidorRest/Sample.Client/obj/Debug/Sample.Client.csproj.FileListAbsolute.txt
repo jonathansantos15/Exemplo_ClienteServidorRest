@@ -1,0 +1,11 @@
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Client\bin\Debug\Sample.Client.exe.config
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Client\bin\Debug\Sample.Client.exe
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Client\bin\Debug\Sample.Client.pdb
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Client\bin\Debug\RestSharp.dll
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Client\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Client\bin\Debug\RestSharp.xml
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Client\obj\Debug\Sample.Client.csprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Client\obj\Debug\Sample.Client.exe
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Client\obj\Debug\Sample.Client.pdb

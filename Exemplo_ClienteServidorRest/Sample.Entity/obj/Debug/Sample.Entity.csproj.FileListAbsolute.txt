@@ -1,0 +1,5 @@
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Entity\bin\Debug\Sample.Entity.dll
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Entity\bin\Debug\Sample.Entity.pdb
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Entity\obj\Debug\Sample.Entity.csprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Entity\obj\Debug\Sample.Entity.dll
+C:\Users\NOTEBOOK\Documents\GitHub\Exemplo_ClienteServidorRest\Exemplo_ClienteServidorRest\Sample.Entity\obj\Debug\Sample.Entity.pdb
